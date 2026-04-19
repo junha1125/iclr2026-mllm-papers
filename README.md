@@ -1,12 +1,12 @@
 # ICLR 2026 MLLM Papers
 
+<p align="center">
+  <img src="mllm_icon.png" alt="MLLM" height="300"/>
+</p>
+<p align="center">
+  <img src="https://iclr.cc/static/core/img/ICLR-logo.svg" alt="ICLR 2026" height="100"/>
+</p>
 
-<p align="center">
-  <img src="mllm_icon.png" alt="MLLM" height="200"/>
-</p>
-<p align="center">
-  <img src="https://iclr.cc/static/core/img/ICLR-logo.svg" alt="ICLR 2026" height="160"/>
-</p>
 
 
 
