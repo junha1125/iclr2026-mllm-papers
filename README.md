@@ -1,9 +1,7 @@
 # ICLR 2026 MLLM Papers
 
 <p align="center">
-  <img src="mllm_icon.png" alt="MLLM" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://iclr.cc/static/core/img/ICLR-logo.svg" alt="ICLR 2026" height="60"/>
+  <img src="mllm-iclr26.png" alt="MLLM" height="300"/>
 </p>
 
 > **181 papers** accepted at ICLR 2026 (Rio de Janeiro, Apr 23–27)
