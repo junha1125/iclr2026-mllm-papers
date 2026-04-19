@@ -3,7 +3,7 @@
 <p align="center">
   <img src="mllm_icon.png" alt="MLLM" height="200"/>
   &nbsp;&nbsp;
-  <img src="https://iclr.cc/static/core/img/ICLR-logo.svg" alt="ICLR 2026" height="180"/>
+  <img src="https://iclr.cc/static/core/img/ICLR-logo.svg" alt="ICLR 2026" height="200"/>
 </p>
 
 
