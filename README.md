@@ -6,7 +6,6 @@
 
 > **181 papers** accepted at ICLR 2026 (Rio de Janeiro, Apr 23–27)
 >
-> Filtered from 5,356 total accepted papers. Vision encoder + LLM based multimodal models (LLaVA-style). Benchmark/dataset-only papers excluded.
 
 ---
 
